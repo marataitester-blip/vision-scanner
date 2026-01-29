@@ -1,0 +1,17 @@
+{
+  "name": "VISION AI Scanner",
+  "short_name": "VISION",
+  "description": "Elite AI Assistant for lifestyle and products",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/876/876569.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
